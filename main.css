@@ -1,0 +1,161 @@
+ <style type="text/css">
+    .blinking-cursor {
+      font-weight: 200;
+      font-size: 20px;
+      color: #2E3D48;
+      -webkit-animation: 1s blink step-end infinite;
+      -moz-animation: 1s blink step-end infinite;
+      -ms-animation: 1s blink step-end infinite;
+      -o-animation: 1s blink step-end infinite;
+      animation: 1s blink step-end infinite;
+    }
+
+    @keyframes "blink" {
+
+      from,
+      to {
+        color: transparent;
+      }
+
+      50% {
+        color: white;
+      }
+    }
+
+    @-moz-keyframes blink {
+
+      from,
+      to {
+        color: transparent;
+      }
+
+      50% {
+        color: white;
+      }
+    }
+
+    @-webkit-keyframes "blink" {
+
+      from,
+      to {
+        color: transparent;
+      }
+
+      50% {
+        color: white;
+      }
+    }
+
+    @-ms-keyframes "blink" {
+
+      from,
+      to {
+        color: transparent;
+      }
+
+      50% {
+        color: white;
+      }
+    }
+
+    @-o-keyframes "blink" {
+
+      from,
+      to {
+        color: transparent;
+      }
+
+      50% {
+        color: white;
+      }
+    }
+
+    body {
+      background: white;
+      color: black;
+      font-weight: 300;
+      font-family: 'Roboto', sans-serif;
+      padding-top: 70px;
+    }
+
+    .title_bar_text {
+      margin-left: 15px;
+      color: white;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      font-weight: 300;
+    }
+
+    .content_heading {
+      margin-left: 5px;
+    }
+
+    .content {
+      margin-left: 30px;
+      font-size: 16px;
+    }
+
+    .section_heading {
+      padding-top: 40px;
+    }
+
+    img {
+      vertical-align: middle !important;
+    }
+
+    p {
+      font-size: 16px;
+    }
+
+    #news_list li,
+    #achievements_list li {
+      font-size: 16px;
+      font-weight: 300;
+    }
+
+    .contact_div {
+      margin-bottom: 30px;
+    }
+
+    .project_list {
+      margin-bottom: 20px;
+    }
+
+    .panel {
+      margin-bottom: 0px;
+    }
+
+    .navbar-right li {
+      color: white;
+    }
+
+    .thumb {
+      margin: 20px 0;
+      border: 1px solid #808080;
+    }
+
+    .conf {
+      color: blue;
+      font-weight: 500;
+    }
+
+    .white-text {
+      color: white;
+    }
+
+    a:not(.navbar-brand):not(.btn-social-icon):not(.github-button):not(.link-btn) {
+      text-decoration: none;
+      border-bottom: 1px solid #ccc;
+      color: inherit;
+    }
+
+    a:hover:not(.btn-social-icon):not(.github-button):not(.link-btn) {
+      color: #00CDFF !important;
+      /*border-bottom: none;*/
+    }
+
+  </style>

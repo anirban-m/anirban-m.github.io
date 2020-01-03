@@ -15,7 +15,7 @@ This page hosts some concept maps and numerical codes for my doctoral project
           In this ipython notebook we first perform the unitary RG to obtain the updation of Hamiltonian parameters. Following which we write down the ground state wavefunction in a file. The updated parameter list along with the form of the interaction allows us to regenerate the many body states at the earlier RG steps. In this code we have performed 6 reverse RG steps for a system of 28 pseudospins. At each reverse RG step 4 pseudospins get re-entangled to the ground state wavefunction at the fixed point which involves only four pseudospins.   
     +[LossFunction](/unitary-disentanglement-RG/LossFunction.ipynb)<br>
           In this notebook we check the performance of the unitary RG based reconstruction of the wavefunctions in the reverse RG steps. This is done by computing the energy uncertainity of the model Hamiltonian with respect to the earlier step wavefunctions.<br>
-    +[Fidelity](/unitary-disentanglement-RG/Fidelity.ipynb)<br>
+    +[Fidelity](/unitary-disentanglement-RG/FidelityScaling.ipynb)<br>
           In this notebook we compute the overlap and its squared overlap between the fixed point wavefunction and reverse RG iterated wavefunction. It shows a significant fall in the reverse RG steps. Indicating the dramatic compression capability of this RG. We later show how even while compression happens the essential information is contained in the many body wavefunction across all the RG transformation steps.
     + [EntanglementGeometry](/unitary-disentanglement-RG/EntanglementGeometry.ipynb)<br>
           In this ipython notebook we compute the Schmidt Coefficients for two kinds of partitions 

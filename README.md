@@ -5,6 +5,6 @@ This page hosts some concept maps and numerical codes for my doctoral project
   __Table of Contents__                  
  - [unitary-disentanglement-RG](/unitary-disentanglement-RG)
     + [benchmarking2DHubbard](/unitary-disentanglement-RG/benchmarking2DHubbard)
-      + [Main Concept behind the Unitary RG](/preliminaries.html)
+      + [Main Concept behind the Unitary RG](/unitary-disentanglement-RG/benchmarking2DHubbard/preliminaries.html)
 
 

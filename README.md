@@ -25,7 +25,7 @@ This page hosts some concept maps and numerical codes for my doctoral project
           >The mutual information values for every pair of degree of freedom.<br>
           >the Schmidt coefficients for the following partitions of degrees of freedoms [1,N-1] and [2,N-2].
           >The Information geodesic that tracks the strongest entangled pair in a system and the diameter that tracks the weakest pair.<br>
-          >Finally we perform a information theoretic analysis of the RG process itself by computing the mutual information between entanglement feature datasets.
+          >Finally we perform a information theoretic analysis of the RG process itself by computing the mutual information between entanglement feature datasets.<br>
          __Information Theoretic Analysis of the entanglement renormalization framework__
 	       We seek to perform a information theoretic analysis of the RG procedure itself. In order to lay the platform for such a analysis we fix the nomenclature.<br> 
 		   >Let us label every pair of degrees of freedom in the entangled state as (i,j).<br>

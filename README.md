@@ -1,4 +1,4 @@
-# xp7orer.github.io
+# anirban-m.github.io
 This page hosts some concept maps and numerical codes for my doctoral project 
                     "__unitary renormalization group(RG) for correlated electronic systems__"
                     
